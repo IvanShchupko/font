@@ -1,0 +1,21 @@
+.text{
+    color: rgb(19, 19, 19);
+    font-size: 40px;
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    font-weight: 100px;
+    text-align: center;
+    background-color:bisque;
+    text-decoration: overline;
+    text-transform: capitalize;
+    letter-spacing: 12px;
+    word-spacing: 50px;
+    line-height: 100px;
+    text-shadow: 5px 2px 5px #000000,
+    -5px -2px 5px #fff,
+    10px 5px 20px green;
+    /* 0 - рухає тінь вліво/вправо, 0 - рухає тінь вверх/вниз, 0 - розмиття */
+}
+span{
+    font-family: 'Crimson Text', serif;
+}
